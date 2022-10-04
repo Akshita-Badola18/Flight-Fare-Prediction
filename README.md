@@ -1,20 +1,5 @@
 # ineuron-intern-Project
 
-## Github Push Pull Commonds
-
-```bash
-echo "# ineuron-intern-Project" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/bhushanasati25/ineuron-intern-Project.git
-git push -u origin main
-```
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Project Title :- Flight Fare Predication
 
@@ -49,50 +34,13 @@ https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 12. Deployment
 
 
-## Commonds for Creating Virtual ENV
 
-Install the virtualenv package
-
-```bash
-pip install virtualenv
-```
-Create the virtual environment
-
-```bash
-virtualenv env_name
-```
-Activate the virtual environment0
-
-```bash
-source env_name/bin/activate
-```
-
-## Tech
-
-![Tech](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Img/img.png)
-
-## Commonds For Running Flask Application in Local System
-
-```bash
-python3 -m flask run
-```
 
 ## Project Deployed Link 
 
-- https://ffprediction.herokuapp.com/ 
-- https://flightfareprediction.azurewebsites.net/
-
-- [Deployed Link](https://ffprediction.herokuapp.com/)
-- [Deployed Link](https://flightfareprediction.azurewebsites.net/)
+https://flight-fare-prediction-18.herokuapp.com
 
 ## Output Images
 
-![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output1.png)
-![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
-
-## Authors
-
-- [@bhushanasati25](https://github.com/bhushanasati25)
-- [@ashamandale](https://github.com/ashamandale)
 
 
