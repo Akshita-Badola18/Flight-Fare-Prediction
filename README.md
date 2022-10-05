@@ -40,7 +40,5 @@ https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 
 https://flight-fare-prediction-18.herokuapp.com
 
-## Output Images
-
 
 
